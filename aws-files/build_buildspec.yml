@@ -22,3 +22,4 @@ artifacts:
   files:
      - target/**/*.war
   discard-paths: yes
+#modified
