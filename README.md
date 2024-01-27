@@ -80,6 +80,8 @@ Thanks Rox for giving me the free credits to keep using AWS to develop this proj
 - ⏭️Test pipeline
 
 ## Continuous integration steps
+- AWS Diagram
+![aws](images/AWS-Project6-Diagram.drawio.png)
 - Source Repository
 ![SourceRepo](images/sourceRepo.png)
 - Parameters
