@@ -50,7 +50,7 @@ Thanks Rox for giving me the free credits to keep using AWS to develop this proj
 - ⏭️Exchange keys with IAM user
 - ⏭️Put source code from github repo to cc repository and push
 - ⏭️Code artifact
-- 	⏭️Create an IAM user with code artifact access
+- ⏭️Create an IAM user with code artifact access
 - ⏭️Install AWS CLI, configure
 - ⏭️Export auth token
 - ⏭️Exchange keys with IAM user
@@ -105,7 +105,7 @@ Thanks Rox for giving me the free credits to keep using AWS to develop this proj
 - Sonar
 ![sonar](images/sonar.png)
 - Quality Gate
-![qualitygate](images/qualitygatesonarior.png)
+![qualitygate](images/qualitygatesonario.png)
 - SonarCloud
 ![sonarcloud](images/sonario.png)
 - S3 Bucket
